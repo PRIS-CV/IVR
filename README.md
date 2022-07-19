@@ -1,7 +1,8 @@
 # Learning Invariant Visual Representations for CZSL
 
 This repository provides dataset splits and code for Paper:
-### Learning Invariant Visual Representations for Compositional Zero-Shot Learning, ECCV 2022
+
+Learning Invariant Visual Representations for Compositional Zero-Shot Learning, ECCV 2022 [Paper (arXiv)](https://arxiv.org/pdf/2206.00415.pdf)
 
 
 
@@ -29,3 +30,14 @@ This repository provides dataset splits and code for Paper:
 
 
 **Note:** Most of the code is an improvement based on https://github.com/ExplainableML/czsl.
+
+## References
+If you find this paper useful in your research, please consider citing:
+```
+@article{zhang2022learning,
+  title={Learning Invariant Visual Representations for Compositional Zero-Shot Learning},
+  author={Zhang, Tian and Liang, Kongming and Du, Ruoyi and Sun, Xian and Ma, Zhanyu and Guo, Jun},
+  journal={arXiv preprint arXiv:2206.00415},
+  year={2022}
+}
+```
