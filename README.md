@@ -19,7 +19,7 @@ Learning Invariant Visual Representations for Compositional Zero-Shot Learning, 
 3. The dataset and splits can be downloaded from: [CZSL-dataset](https://drive.google.com/drive/folders/1ZSw4uL8bjxKxBhrEFVeG3rgewDyDVIWj).
 
 
-4. To run IFL for UT-Zappos dataset:
+4. To run IVR for UT-Zappos dataset:
 ```
     Training:
     python train.py --config config/zappos.yml
