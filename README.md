@@ -34,10 +34,10 @@ Learning Invariant Visual Representations for Compositional Zero-Shot Learning, 
 ## References
 If you find this paper useful in your research, please consider citing:
 ```
-@article{zhang2022learning,
+@inproceedings{zhang2022learning,
   title={Learning Invariant Visual Representations for Compositional Zero-Shot Learning},
   author={Zhang, Tian and Liang, Kongming and Du, Ruoyi and Sun, Xian and Ma, Zhanyu and Guo, Jun},
-  journal={arXiv preprint arXiv:2206.00415},
+  booktitle={ECCV},
   year={2022}
 }
 ```
