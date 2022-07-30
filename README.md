@@ -5,6 +5,12 @@ This repository provides dataset splits and code for Paper:
 Learning Invariant Visual Representations for Compositional Zero-Shot Learning, ECCV 2022 [Paper (arXiv)](https://arxiv.org/pdf/2206.00415.pdf)
 
 
+<p align="center">
+  <img src="utils/img.png" width = "800" height = "400" alt="" align=center/>
+</p>
+
+We reconsider CZSL as an out-of-distribution generalization problem to improve the ability of the model to generalize to unknown compositions. If an object is treated as a domain, we can learn object-invariant features to recognize the attributes attached to any object reliably. Similarly, attribute-invariant features can also be learned when recognizing the objects with attributes as domains. By penalizing domain-specific power of features, we discover invariant mechanisms in the data which are hard to vary across examples and thus learn the optimal attribute classifier and object classifier. 
+
 
 ## Usage 
 
