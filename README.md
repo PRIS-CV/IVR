@@ -6,7 +6,7 @@ Learning Invariant Visual Representations for Compositional Zero-Shot Learning, 
 
 
 <p align="center">
-  <img src="utils/img.png" width = "800" height = "400" alt="" align=center/>
+  <img src="utils/img.png" width = "600" height = "300" alt="" align=center/>
 </p>
 
 We reconsider CZSL as an out-of-distribution generalization problem to improve the ability of the model to generalize to unknown compositions. If an object is treated as a domain, we can learn object-invariant features to recognize the attributes attached to any object reliably. Similarly, attribute-invariant features can also be learned when recognizing the objects with attributes as domains. By penalizing domain-specific power of features, we discover invariant mechanisms in the data which are hard to vary across examples and thus learn the optimal attribute classifier and object classifier. 
