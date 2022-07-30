@@ -14,7 +14,7 @@ We reconsider CZSL as an out-of-distribution generalization problem to improve t
 
 ## Usage 
 
-1. Clone the repo 
+1. Clone the repo.
 
 2. We recommend using Anaconda for environment setup. To create the environment and activate it, please run:
 ```
